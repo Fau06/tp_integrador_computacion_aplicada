@@ -67,5 +67,6 @@ Se adjunta un diagrama de topología de la infraestructura, que ilustra la confi
 * Conexión al **Router/Gateway** local
 * Conexión a **Internet**
 
+------------------
 
 * Fausto Villalba
